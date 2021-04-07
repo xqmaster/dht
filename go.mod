@@ -1,3 +1,3 @@
-module github.com/shiyanhui/dht
+module github.com/xqmaster/dht
 
 go 1.15
